@@ -1,4 +1,7 @@
-# Slash Socials
+![SLash_Socials](https://github.com/user-attachments/assets/cc8a45c2-f44b-4454-b584-6a1abe6c59f0)
+
+![GitHub License](https://img.shields.io/github/license/NotLeon-dev/slashsocials) ![GitHub file size in bytes](https://img.shields.io/github/size/NotLeon-dev/slashsocials/slash-socials-1.6.1.jar) ![Spiget Downloads](https://img.shields.io/spiget/downloads/123518) ![Spiget Rating](https://img.shields.io/spiget/stars/123518)
+
 
 A lightweigt Minecraft Plugin to display your social media Chanels on your Minecraft server.
 
@@ -20,15 +23,19 @@ A lightweigt Minecraft Plugin to display your social media Chanels on your Minec
 1. Go to the config.yml file of the Plugin
 
 2. Customize the links of the social media chanels
-  >youtube: "§7youtube.com/yourchanel"  
-  >tiktok: "§7tiktok.com/yourchanel"  
-  >twitter: "§7x.com/yourchanel"  
-  >instagram: "§7instagram.com/yourchanel"
+   
+   ![socials_sm (1)](https://github.com/user-attachments/assets/00596031-c14a-4fba-8e7b-2ebadcd53236)
 
 3. Customize the Broadcast message
->broadcast-message-enabled: true (enables the message)  
->broadcast-message-time:  
->  -- 120 (shows the time in seconds)
+   
+   3.1 Change if the message should be enabled or not
+   
+    ![enabled_sm](https://github.com/user-attachments/assets/f1525c1b-ddf9-4769-8b35-426c4a792777)
+
+   3.2 Change the time of when the message will be sent
+
+    ![time_sm](https://github.com/user-attachments/assets/b634cb89-3a7a-49f0-9ab5-e177cc2c5936)
+
 
 ## Usage  
 - Use /sm (or /socials, /socialmedia) to see all chanels
