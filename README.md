@@ -30,4 +30,8 @@ A lightweigt Minecraft Plugin to display your social media Chanels on your Minec
 >broadcast-message-time:  
 >  -- 120 (shows the time in seconds)
 
+## Usage  
+- Use /sm (or /socials, /socialmedia) to see all chanels
+- Use /sm youtube (or differen chanel) to see a specific chanel link
+
 ## Screenshots
