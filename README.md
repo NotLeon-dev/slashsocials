@@ -42,3 +42,6 @@ A lightweigt Minecraft Plugin to display your social media Chanels on your Minec
 - Use /sm youtube (or differen chanel) to see a specific chanel link
 
 ## Screenshots
+![2025-03-28_23 10 06](https://github.com/user-attachments/assets/5a93a767-ea1a-453f-827c-53339699f867)  
+![2025-03-28_23 08 45](https://github.com/user-attachments/assets/80d0f7f6-bc4a-486d-8073-8956ae522f2b)
+
